@@ -1,4 +1,0 @@
-Porque la carpeta ya tiene elementos dentro de ella, por lo que se leen los cambios.
-Estiven Ospina Jaramillo
-18 años
-Quiero poder desenvolverme bien en POO por medio de Java y Python para una buena oferta laboral.
