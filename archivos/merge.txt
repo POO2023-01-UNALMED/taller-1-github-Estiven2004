@@ -1,1 +1,1 @@
-Porque la carpeta ya tiene elementos dentro de ella, por lo que se leen los cambios
+Porque la carpeta ya tiene elementos dentro de ella, por lo que se leen los cambios.
