@@ -1,3 +1,5 @@
 Estiven Ospina Jaramillo
 18 años
 Aspiro aprender bastante de POO para quizás obtener una buena oferta laboral
+Porque para poder hacer un commit la carpeta tiene que tener elementos
+Porque se generan conflictos al momento de conservar alguna o ambas versiones
